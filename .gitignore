@@ -1,4 +1,5 @@
 .DS_Store
 .idea
-introduction-to-pytorch/data
-introduction-to-pytorch-on-youtube/data
+pytorch-tutorial/introduction-to-pytorch/data
+pytorch-tutorial/introduction-to-pytorch-on-youtube/data
+pytorch-tutorial/introduction-to-pytorch-on-youtube/runs
